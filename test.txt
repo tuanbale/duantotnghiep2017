@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-﻿thong tin chính xác
+
+thong tin chính xác
 Nguyễn Anh Tuấn
 01639899969
-=======
-adasdads
->>>>>>> parent of 2b73157... da them thong tin nguyen anh tuan vao test.txt
+
